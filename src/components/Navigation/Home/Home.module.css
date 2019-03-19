@@ -1,0 +1,11 @@
+.Home {
+    text-align: center;
+}
+
+.Tiles {
+    margin: 100px auto;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    border: 2px solid red;
+}
